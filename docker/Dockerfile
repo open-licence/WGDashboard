@@ -113,7 +113,7 @@ ARG wg_port="51820"
 ENV TZ="Europe/Amsterdam" \
     global_dns="9.9.9.9" \
     wgd_port="10086" \
-    public_ip="" \
+    public_ip="81.200.157.27" \
     WGDASH=/opt/wgdashboard
 
 # Create directories needed for operation
